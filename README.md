@@ -1,9 +1,13 @@
 # car_price_prediction
 
 
-# this is notebook for car price prediction in that
+# This is notebook for car price prediction in that:
 
-1)data preprocessing
+ 🧹 data preprocessing
+
+ Handling missing value
+ fill the outlier
+ feature selection
 
 🧠 Model Building
 
